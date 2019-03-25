@@ -42,6 +42,9 @@ VirtualMin
 Weebly
   https://www.weebly.com
   Weebly is an AJAX website creator that allows you to create pages with template skins and content widgets
+  status: exited
+  exit: Acquired by Square for $365M in April 2018.
+  note: https://techcrunch.com/2018/04/26/square-acquires-weebly/
 
 Whitenoise Networks
   Whitenoise is like a social network for the music industry
